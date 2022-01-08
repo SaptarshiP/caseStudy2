@@ -9,7 +9,7 @@ class main
 		String lname = "Pramanick";
 
 		if ( fname.equals( "Saptarshi" ) ){
-			System.out.println("Hii Saptarshi Pramanick");
+			System.out.println("Hii Saptarshi Pramanick Good Morning");
 
 		}
 
